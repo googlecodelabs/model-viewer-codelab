@@ -12,3 +12,7 @@ interactivity and changing how it looks.
 We've included a few 3D models in the repo for you to try. Many more are
 available on sites like [Poly](https://poly.google.com) and
 [Sketchfab](https://sketchfab.com).
+
+# Notes
+
+This is not an officially supported Google product.
